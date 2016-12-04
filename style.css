@@ -1,0 +1,57 @@
+body {
+    font-family:Georgia;
+}
+
+#content {
+    height: 1500px;
+}
+
+#sidebar {
+    background-color: darkgray;
+    height: 100%;
+}
+
+#main {
+    background-color: lightgray;
+    height: 100%
+}
+
+.nav-pills a {
+    color: black;
+    font-size: 16px;
+}
+
+span {
+    display:inline-block;
+}
+
+.comments-link {
+    float:left;
+}
+
+.date {
+    float:right;
+}
+
+.post-footer {
+    height: 20px;
+}
+
+.post-content {
+    font-size: 16px;
+}
+hr {
+    border-color: dimgray;
+}
+
+.thumbnail {
+    display: block;
+    float: right;
+    width: 20%;
+    text-align: center;
+    background-color: #E8E8EE;
+}
+
+.clearfix {
+    overflow: auto;
+}
